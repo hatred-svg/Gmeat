@@ -1,29 +1,6 @@
 # Gmeat
 
-Fast free-for-all PvP quest race for the Sector 75 map. 2–6 players, ~4 minute rounds.
-
-## Install
-
-1. Subscribe to Sector 75 on the Workshop (map name `sector75`).
-2. Copy this whole `gmeat` folder into `garrysmod/addons/` so you have `garrysmod/addons/gmeat/gamemodes/gmeat/...`.
-3. Restart Garry's Mod. Pick **Gmeat** in the gamemode list (with its blood-splat icon, `gamemodes/gmeat/icon24.png`; the main menu shows the Gmeat logo, `gamemodes/gmeat/logo.png`) (bottom-right of the main menu) and start `sector75`.
-   Use **2+ max players** (a listen server) even when testing alone. Single-player mode behaves differently.
-
-**Coming from Gmaze** (the gamemode's old name): delete the old `garrysmod/addons/gmaze` folder first, so the
-two don't both show up in the gamemode list. Every setting and console command is now `gmeat_...` instead of
-`gmaze_...`, so any values you changed under the old name start from the defaults again.
-
-### Testing alone
-
-Open the console and run:
-
-```
-gmeat_min_players 1
-gmeat_quest assembly      (or delivery / bomb / killconfirmed / random)
-gmeat_restart
-```
-
-`bot` adds a bot that stands still: useful for testing kills, respawns and drops.
+Fast free-for-all PvP quest race for the Sector 75 map. 2–8 players, ~4 minute rounds.
 
 ## How a round works
 
