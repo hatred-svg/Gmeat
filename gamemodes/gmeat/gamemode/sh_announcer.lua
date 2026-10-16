@@ -1,0 +1,38 @@
+GMEAT.Lines = {
+	waiting          = "Waiting for more contractors...",
+	round_prep       = "Shift starting. Get ready.",
+	quest_assembly   = "Work order: collect %d power cells and install them in the generator.",
+	quest_delivery   = "Work order: find the package and deliver it to the drop-off.",
+	quest_bomb       = "Work order: find the explosive and detonate it at the marked site.",
+	generator_found  = "The generator has been located. Check your map.",
+	cell_installed   = "%s installed power cells. (%d of %d)",
+	package_spawned  = "A package has been located. Check your map.",
+	package_taken    = "%s has the package!",
+	package_dropped  = "The package has been dropped!",
+	package_returned = "The package has been returned to its original location.",
+	dropzone         = "Drop-off point assigned. Check your map.",
+	bomb_spawned     = "An explosive has been located. Check your map.",
+	bomb_site        = "Demolition site assigned. Check your map.",
+	bomb_taken       = "%s has the explosive!",
+	bomb_dropped     = "The explosive has been dropped!",
+	bomb_returned    = "The explosive has been returned to its original location.",
+	bomb_planted     = "%s planted the explosive! Defuse it or get out!",
+	bomb_defused     = "%s defused the explosive!",
+	quest_killconfirmed = "Work order: eliminate %d contractors and collect their skulls as proof.",
+	kc_close         = "%s needs just %d more confirmed kills!",
+	supply_drop      = "Supply drop incoming. Check your map.",
+	one_minute       = "One minute remaining.",
+	overtime         = "Overtime!",
+	round_win        = "%s wins! %s",
+	round_draw       = "Time's up. Nobody finished the job.",
+	round_abort      = "Round cancelled: %s",
+}
+
+GMEAT.DefaultAnnounceSound = "buttons/blip1.wav"
+GMEAT.LineFallbackSounds = {
+	supply_drop  = "ambient/alarms/klaxon1.wav",
+	bomb_planted = "buttons/button17.wav",
+	round_win    = "",
+	round_draw   = "",
+	overtime     = "buttons/button17.wav",
+}

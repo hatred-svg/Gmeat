@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gmeat/decals/wound3"
+	"$decal" "1"
+	"$decalscale" "0.05"
+	"$translucent" "1"
+	"$modelmaterial" "gmeat/decals/hl2/decals_flesh_blood3_subrect_model"
+}

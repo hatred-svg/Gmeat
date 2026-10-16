@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gmeat/decals/splat4"
+	"$decal" "1"
+	"$decalscale" "0.11"
+	"$translucent" "1"
+	"$modelmaterial" "gmeat/decals/vomitpool4_model"
+}

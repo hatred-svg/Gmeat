@@ -1,0 +1,52 @@
+"gmeat"
+{
+	"base"			"base"
+	"title"			"Gmeat"
+	"maps"			"^sector75"
+	"menusystem"	"1"
+	"workshopid"	""
+
+	"settings"
+	{
+		1
+		{
+			"name"		"gmeat_min_players"
+			"text"		"Minimum players to start a round"
+			"help"		"Set to 1 to test alone."
+			"type"		"Numeric"
+			"default"	"2"
+		}
+		2
+		{
+			"name"		"gmeat_round_time"
+			"text"		"Round length (seconds)"
+			"help"		"How long a round lasts before the leader wins on progress."
+			"type"		"Numeric"
+			"default"	"240"
+		}
+		3
+		{
+			"name"		"gmeat_quest"
+			"text"		"Quest (random, assembly, delivery, bomb, kill confirmed)"
+			"help"		"Force a quest type, or leave on random."
+			"type"		"Text"
+			"default"	"random"
+		}
+		4
+		{
+			"name"		"gmeat_weapon_blacklist"
+			"text"		"Weapon blacklist (comma separated classes)"
+			"help"		"Weapons that will never appear in supply drops."
+			"type"		"Text"
+			"default"	""
+		}
+		5
+		{
+			"name"		"gmeat_hl2_weapons"
+			"text"		"Include HL2 weapons in supply drops"
+			"help"		""
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+	}
+}

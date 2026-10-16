@@ -1,0 +1,6 @@
+{
+	"title": "Gmeat",
+	"type": "gamemode",
+	"tags": ["fun"],
+	"ignore": ["*.md", "*.psd", "*.vmf"]
+}

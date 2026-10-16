@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "gmeat/decals/wound2"
+	"$decal" "1"
+	"$decalscale" "0.05"
+	"$translucent" "1"
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gmeat/decals/spray4"
+	"$decal" "1"
+	"$decalscale" "0.13"
+	"$translucent" "1"
+	"$modelmaterial" "gmeat/decals/hl2/decals_blood8_subrect_model"
+}

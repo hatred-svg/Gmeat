@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gmeat/decals/wound2"
+	"$decal" "1"
+	"$decalscale" "0.07"
+	"$translucent" "1"
+	"$modelmaterial" "gmeat/decals/fleshwound2_model"
+}
